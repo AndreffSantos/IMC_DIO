@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:meu_app_imc/pessoa.dart';
+import 'package:meu_app_imc/classes/pessoa.dart';
 import 'package:test/test.dart';
 
 void main() {
